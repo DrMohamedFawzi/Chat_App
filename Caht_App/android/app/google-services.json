@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67394356350",
+    "project_id": "chattochat-21051",
+    "storage_bucket": "chattochat-21051.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67394356350:android:f81a74488b687fc90cc42f",
+        "android_client_info": {
+          "package_name": "com.example.chat_to_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67394356350-rcs3uhjhtqnhden0p48qjio9ss8h4vpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAB1Z8s4vuTz2E9JVJuDRecAPw5n1gOs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67394356350-rcs3uhjhtqnhden0p48qjio9ss8h4vpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
